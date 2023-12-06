@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bikash K.C.
+- 👀 I’m interested in Python Programming.
+- 🌱 I’m currently learning new programming and new technology.
+- 📫 How to reach me through my social media and linkedin.
